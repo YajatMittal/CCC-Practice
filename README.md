@@ -1,2 +1,2 @@
 # CCC-Practice
-These are the CCC practice problem aswesr that I am working on
+These are the answers of the CCC practice problems I am working on
